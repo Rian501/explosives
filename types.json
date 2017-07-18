@@ -1,0 +1,34 @@
+{
+    "types": [
+        {
+            "category_id": "-KoSu6ibkETqH2Ebau8w",
+            "name": "personal fireworks",
+            "description": "Fireworks intended for recreational use during holiday celebrations."
+        },
+        {
+            "category_id": "-KoSu6ibkETqH2Ebau8w",
+            "name": "commercial fireworks",
+            "description": "Fireworks intended for recreational use sponsored by commerical venues such as malls or stadia."
+        },        
+        {
+            "category_id": "-KoSu6ibkETqH2Ebau8w",
+            "name": "government fireworks",
+            "description": "Fireworks intended for municipal use, sold to governments of cities, states, or countries."
+        }, 
+        {
+            "category_id": "-KoSuCiGdmFULv34kfAw",
+            "name": "personal demolition",
+            "description": "DIY home improvement project helpers."
+        },
+        {
+            "category_id": "-KoSuCiGdmFULv34kfAw",
+            "name": "commercial demolition",
+            "description": "For use by professional developers and demolition contractors."
+        },        
+        {
+            "category_id": "-KoSuCiGdmFULv34kfAw",
+            "name": "government demolition",
+            "description": "Sales classified."
+        }
+    ]
+}
